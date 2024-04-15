@@ -22,7 +22,7 @@ Co-Founder:<br>
 <br>
 - Chimmy's current course is Computer Science @ SMU
 
-## Languages used in all the peojects:
+## Languages used in all the projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50">
 
 You can support our projects by [donating](https://ko-fi.com/jhhspace)!
