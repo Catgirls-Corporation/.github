@@ -22,13 +22,13 @@ Co-Founder:<br>
 <br>
 - Jhhspace's GPG Key:
 <br>
-- [Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
+[Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
 <br>
 - Chimmy's current course is Computer Science @ SMU
 <br>
 - Chimmy's GPG Key:
 <br>
-- [Download](https://img.jhh.moe/r/PqmObR.asc?compress=false)
+[Download](https://img.jhh.moe/r/PqmObR.asc?compress=false)
 
 ## Languages used in all the projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50">
