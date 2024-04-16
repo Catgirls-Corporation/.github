@@ -4,7 +4,7 @@
 
 🐾 Catgirls Corporation, a project connected to Jhhspace Inc, who founded the Nyatastic Discord bot.
 
-## About Catgirl Corporation
+## About Catgirls Corporation
 Founder:<br>
 ![Discord Status Banner](https://discord.c99.nl/widget/theme-3/898569996949676052.png)
 
@@ -16,7 +16,7 @@ Co-Founder:<br>
 <br>
 - 🇸🇬 Based in Singapore
 <br>
-- 😽 **Developer**: Jhhspace is the <b>Founder</b> and Chimmy is the <b>Co-Founder</b> of a Discord bot called Nyatastic.
+- 😽 <b>Developers</b>: Jhhspace is the <b>Founder</b> and Chimmy is the <b>Co-Founder</b> of a Discord bot called Nyatastic.
 <br>
 - Jhhspace's current course is AI Applications @ ITE CW
 <br>
