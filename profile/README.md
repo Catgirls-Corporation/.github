@@ -19,8 +19,10 @@ Co-Founder:<br>
 - 😽 <b>Developers</b>: Jhhspace is the <b>Founder</b> and Chimmy is the <b>Co-Founder</b> of a Discord bot called Nyatastic.
 <br>
 - Jhhspace's current course is AI Applications @ ITE CW
+- Jhhspace's GPG Key: [Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
 <br>
 - Chimmy's current course is Computer Science @ SMU
+- Chimmy's GPG Key: [Download](https://img.jhh.moe/r/PqmObR.asc?compress=false)
 
 ## Languages used in all the projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50">
