@@ -17,17 +17,7 @@ Co-Founder:<br>
 - 🇸🇬 Based in Singapore
 <br>
 - 😽 <b>Developers</b>: Jhhspace is the <b>Founder</b> and Chimmy is the <b>Co-Founder</b> of a Discord bot called Nyatastic.
-<br>
-- Jhhspace's current course is AI Applications @ ITE CW
-<br>
-- Jhhspace's GPG Key:
-<br>
-[Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
-</br>
-<br>
-- Chimmy's GPG Key:
-</br>
-[Download](https://img.jhh.moe/r/PqmObR.asc?compress=false)
+
 
 ## Languages used in all the projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50">
@@ -38,7 +28,7 @@ You can support our projects by [donating](https://ko-fi.com/jhhspace)!
 - [Nekogirl API](https://api.nekogirl.net/)
 
 ## Stats
-[Jhhspace Inc. Uptime](https://status.nekogirl.net/)
+[Catgirls Corporation Uptime](https://status.nekogirl.net/)
 
 ## View Count
 ![:Catgirls-Corporation](https://moe-counter.glitch.me/get/@Catgirls-Corporation)
