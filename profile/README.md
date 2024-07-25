@@ -23,11 +23,10 @@ Co-Founder:<br>
 - Jhhspace's GPG Key:
 <br>
 [Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
-<br>
-- Chimmy's current course is Computer Science @ SMU
+</br>
 <br>
 - Chimmy's GPG Key:
-<br>
+</br>
 [Download](https://img.jhh.moe/r/PqmObR.asc?compress=false)
 
 ## Languages used in all the projects:
