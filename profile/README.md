@@ -1,7 +1,5 @@
 # Catgirls Corporation
 
-![Catgirl Banner](https://img.jhh.moe/r/u6Qdtj.jpg?compress=false)
-
 🐾 Catgirls Corporation, a project connected to Jhhspace, who founded the Nyatastic Discord bot.
 
 ## About Catgirls Corporation
